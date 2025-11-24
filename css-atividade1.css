@@ -1,1 +1,37 @@
+<head>
+    <meta charset="utf-8">
+    <title>MusicDot - Sobre a Empresa</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="css-atividade1.css">
+</head>
 
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+h1 {
+  color: #3D3D3D;
+  background-color: #E1EDF2;
+  padding: 10px;
+}
+
+h2 {
+  border-bottom: 1px solid #3D3D3D;
+  padding-bottom: 5px;
+}
+
+figure {
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  color: lightgrey;
+}
