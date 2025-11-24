@@ -28,3 +28,8 @@ figure img {
 figcaption {
   color: lightgrey;
 }
+
+.logo {
+  display: block;
+  margin: 20px auto;
+}
